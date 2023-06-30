@@ -7,6 +7,7 @@ So you wanna learn a new front-end framework, huh?
 ## Learning Challenges
 
 - Hello World
+- routing/multi-screen
 - Calculator app
 - TODO app
 
